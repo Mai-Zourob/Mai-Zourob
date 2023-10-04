@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Mai Zourob from Plestine<br><br>- 🔭 I’m working as front end developer<br>- 📚 I'm currently learning react<br>- ⚡ I,m working as freelancer</p>
+<p align="left">I'm Mai Zourob from Palestine<br><br>- 🔭 I’m working as front end developer<br>- 📚 I'm currently learning react<br>- ⚡ I,m working as freelancer</p>
 
 ###
 
